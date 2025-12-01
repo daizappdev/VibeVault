@@ -1,0 +1,9 @@
+{
+  "name": "VibeVault",
+  "description": "Your private archive of authentic moments with your closest crew. No algorithms, just real life.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
